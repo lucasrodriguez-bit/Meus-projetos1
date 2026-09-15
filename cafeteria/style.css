@@ -1,0 +1,243 @@
+:root {
+  --cor-fundo-escuro: #18110B;
+  --cor-fundo-claro: #FAF6F0;
+  --cor-fundo-card: #FFFFFF;
+  --cor-texto-principal: #2B2118;
+  --cor-texto-suave: #62564C;
+  --cor-texto-claro: #E2D9D0;
+  --cor-laranja: #E58B43;
+  --cor-laranja-hover: #D97734;
+  --cor-botao-escuro: #2B2118;
+  --cor-borda-suave: #EAE3D9;
+  --fonte-titulo: 'Lora', serif;
+  --fonte-corpo: 'Plus Jakarta Sans', sans-serif;
+}
+
+* {
+ 
+}
+
+html {
+  
+}
+
+section {
+  
+}
+
+body {
+ 
+}
+
+h1,
+h2,
+h3 {
+  
+}
+
+.cabecalho {
+ 
+}
+
+.logo {
+  
+}
+
+.logo i {
+ 
+}
+
+.navegacao {
+ 
+}
+
+.navegacao a {
+  
+}
+
+.navegacao a:hover,
+.navegacao a.active {
+ 
+}
+
+.destaque {
+ 
+}
+
+.destaque h1 {
+  
+}
+
+.destaque h1 .destaque-texto {
+
+}
+
+.frase-efeito {
+ 
+}
+
+.botao {
+ 
+}
+
+.botao-primario {
+ 
+}
+
+.botao-primario:hover {
+ 
+}
+
+.botao-secundario {
+ 
+}
+
+.titulo-secao {
+  
+}
+
+.titulo-secao.texto-esquerda {
+ 
+}
+
+.favoritos {
+ 
+}
+
+.card {
+  
+}
+
+.card img {
+ 
+}
+
+.card-conteudo {
+  
+}
+
+.card-conteudo h3 {
+  
+}
+
+.card-conteudo p {
+ 
+}
+
+.card-conteudo .preco {
+  
+}
+
+.sobre {
+
+}
+
+.sobre-info {
+ 
+}
+
+.sobre-info p {
+ 
+}
+
+.sobre-imagem {
+ 
+}
+
+.sobre-imagem img {
+
+}
+
+.contato {
+ 
+}
+
+.contato-subtitulo {
+  
+}
+
+.formulario-contato {
+ 
+}
+
+.formulario-contato label {
+  
+}
+
+.formulario-contato input,
+.formulario-contato textarea {
+ 
+}
+
+.formulario-contato input:focus,
+.formulario-contato textarea:focus {
+ 
+}
+
+.botao-enviar {
+  
+}
+
+.rodape {
+  
+}
+
+.rodape-item {
+  
+}
+
+.icone-rodape {
+  
+}
+
+.rodape-item a {
+  
+}
+
+.rodape-item a:hover {
+  
+}
+
+.direitos {
+  
+}
+
+.direitos i {
+  
+}
+
+@media (max-width: 768px) {
+  .cabecalho {
+    
+  }
+
+  .navegacao {
+    
+  }
+
+  .destaque {
+    
+  }
+
+  .destaque h1 {
+    
+  }
+
+  .favoritos,
+  .sobre,
+  .contato {
+  
+  }
+
+  .card {
+   
+  }
+
+  .card img {
+  
+  }
+
+  .rodape {
+    
+  }
+}
